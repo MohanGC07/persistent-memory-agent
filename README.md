@@ -116,7 +116,7 @@ http://localhost:8501
 
 The app is deployed on **Streamlit Cloud** and accessible at:
 
-🔗 **[https://persistent-memory-agen.streamlit.app](https://persistent-memory-agen.streamlit.app)**
+🔗 **[https://persistent-memory-agent.streamlit.app](https://persistent-memory-agent.streamlit.app)**
 
 > To deploy your own instance:
 > 1. Fork this repository
